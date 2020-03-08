@@ -1,0 +1,83 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD19534KCS
+D Texas Instruments CSD19534KCS N-channel MOSFET Transistor, 100 A, 100 V, 3-Pin TO-220
+F http://www.ti.com/lit/gpn/csd19534kcs
+$ENDCMP
+#
+$CMP LM1085IT-12_NOPB
+D 3A Fixed / Adjustable Output Linear Regulator
+F http://www.ti.com/lit/gpn/lm1085
+$ENDCMP
+#
+$CMP LM1085IT-5.0
+D IC, LDO VOLT REG, 5V, 1.5A
+$ENDCMP
+#
+$CMP LM1085IT-5.0_NOPB
+D 3A,5V,LDO Voltage Regulator,LM1085IT-5.0 Texas Instruments LM1085IT-5.0/NOPB, LDO Voltage Regulator, 3A, 5 V, 2.6  25 Vin, 3-Pin TO-220
+$ENDCMP
+#
+$CMP LM555CN_NOPB
+D Highly stable 555 timer for generating accurate time delays and oscillation
+$ENDCMP
+#
+$CMP M48Z02-70PC1
+D Zeropower SRAM,16Kb,PDIP24,M48Z02-70PC1 M48Z02-70PC1,  NVRAM Memory 16kbit Through Hole, 4.75  5.5 V, 0  +70 C, 24-Pin, PCDIP
+F https://componentsearchengine.com/Datasheets/1/M48Z02-70PC1.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP RT114005
+D RELAY RT 5 VDC/12A
+F https://componentsearchengine.com/Datasheets/1/RT114005.pdf
+$ENDCMP
+#
+$CMP SCCV60B107MRB
+D AVX - SCCV60B107MRB - SUPER CAPACITOR, 100F, 2.7V, RADIAL
+F https://componentsearchengine.com/Datasheets/1/SCCV60B107MRB.pdf
+$ENDCMP
+#
+$CMP SN74LS04NE4
+D Inverters HEX INVERTERS
+F http://www.ti.com/lit/ds/symlink/sn74ls04.pdf
+$ENDCMP
+#
+$CMP SN74LS08N
+D Quad 2i/p AND gate,SN74LS08N DIP14 25pcs
+F http://componentsearchengine.com/Datasheets/3/SN74LS08N.pdf
+$ENDCMP
+#
+$CMP SN74LS32N
+D Quad 2i/p OR gate,SN74LS32N DIP14 25pcs
+F http://componentsearchengine.com/Datasheets/3/SN74LS32N.pdf
+$ENDCMP
+#
+$CMP TC4420CPA
+D Microchip TC4420CPA, MOSFET Power Driver 6A, 4.5  18 V, Non-Inverting, 8-Pin PDIP
+F https://componentsearchengine.com/Datasheets/1/TC4420CPA.pdf
+$ENDCMP
+#
+$CMP PTA6044-2015CPB103
+D Bourns 1 Gang Slide Carbon Potentiometer with a 4 mm Dia. Shaft, 10k, +/-20%, 0.125W, Linear PTA6044-2015CPB103
+K
+F http://uk.rs-online.com/web/p/products/7703100P
+$ENDCMP
+#
+$CMP ESB33133
+D Pushbutton Switches SWPUSHT/H H=6.0mm
+K
+F http://uk.rs-online.com/web/p/products/7561363P
+$ENDCMP
+#
+$CMP FT232RL-TUBE
+D USB Interface IC FT232R Single Ch Full Speed
+K
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
+$ENDCMP
+#
+#End Doc Library
